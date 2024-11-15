@@ -18,25 +18,25 @@
         "appSize": "12mb",
         "appCover": "https://i.imgur.com/N0OjzuV.png",
         "appTitle": "V Manager",
-        "isActive": true,
+        "isActive": false,
         "appRating": "5.0",
         "appDescription": "V Manager is a tool where you can download and update YV. A tool intended to eliminate the tedious steps required to install YV."
     },
     "moreApps": [
         {
-            "image": "https://picsum.photos/300/200?random=23",
-            "title": "Weather Pro",
-            "appLink": "https://play.google.com/store/apps/weather"
+            "image": "https://play-lh.googleusercontent.com/B_lzDAIWc8M9K0LIz4WQdJJvIxDv35b5h-Ybb6buPcltdEw39p1tw13ZTfcokIFesQ=w240-h480-rw",
+            "title": "ONLINE RP Играй онлайн",
+            "appLink": "https://play.google.com/store/apps/details?id=com.onlinerp.launcher"
         },
         {
-            "image": "https://picsum.photos/300/200?random=24",
-            "title": "Fitness Tracker",
-            "appLink": "https://play.google.com/store/apps/fitness"
+            "image": "https://play-lh.googleusercontent.com/Z8AFEL2sj378QEvu0QgAHqNw6zv01zSPRgpD8y0bPLWKEExFnKGR7O3zn682fw4cBw=w240-h480-rw",
+            "title": "FRAG Pro Shooter",
+            "appLink": "https://play.google.com/store/apps/details?id=com.ohbibi.fps"
         },
         {
-            "image": "https://picsum.photos/300/200?random=25",
-            "title": "Recipe Book",
-            "appLink": "https://play.google.com/store/apps/recipe"
+            "image": "https://play-lh.googleusercontent.com/sITxnGaUxYVzTDkVAjRSKM8JKehWTuseE4hF8937sWVattKHEAirl7uZw93gqad_fQg6=s48-rw",
+            "title": "Stick War: Legacy",
+            "appLink": "https://play.google.com/store/apps/details?id=com.maxgames.stickwarlegacy"
         }
     ],
     "categories": [
